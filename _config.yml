@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Leevi Veneranta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "TODO BIO"
-  location         : "Aspiring computer scientist"
-  email            :
+  bio              : "Aspiring computer scientist"
+  location         : "Finland"
+  email            : "leevi.veneranta@aalto.fi"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
