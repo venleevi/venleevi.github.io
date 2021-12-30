@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Leevi Veneranta"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring computer scientist"
-  location         : "Finland"
+  bio              : "M.Sc. Machine Learning student @Aalto University"
+  location         : "Espoo, Finland"
   email            : "leevi.veneranta@aalto.fi"
   links:
     - label: "Email"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/venleevi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -288,3 +288,11 @@ defaults:
       comments: # true
       share: false
       related: false
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: True

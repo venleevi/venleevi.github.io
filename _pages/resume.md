@@ -1,6 +1,7 @@
 ---
+title: "Resume"
 layout: single
 permalink: /resume/
 ---
 
-Resume page.
+TODO Resume page.
