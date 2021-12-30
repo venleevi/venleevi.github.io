@@ -20,9 +20,44 @@
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
-    <script src="{{ script | relative_url }}"></script>
+<script src="{{ script | relative_url }}"></script>
+{% endfor %}
+{% endif %}
+
+
+<!--
+     ADDITION OF CUSTOM CSS
+     Note this can be added by modifying the YAML header of .md files by doing:
+
+     ---
+     title: "example title"
+     custom_css:
+     - <NAME_OF_CUSTOM_CSS>
+     ----
+
+     Note that the custom CSS file should be in /assets/css/<NAME_OF_CUSTOM_CSS>
+-->
+{% if page.custom_css %}
+  {% for stylesheet in page.custom_css %}
+    <link rel="stylesheet" href="/assets/css/{{ stylesheet }}.css">
   {% endfor %}
 {% endif %}
+<!-- ADDITION OF CUSTOM CSS -->
+
+
+<!--
+     ADDITION OF CUSTOM JS
+     Note comments for custom_css part, this is similar -> just do custom_js
+
+     custom js files should be in /assets/js/<NAME_OF_CUSTOM_JS>
+-->
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+    <script type="text/javascript" src="/assets/js/{{ js_file }}.js"></script>
+  {% endfor %}
+{% endif %}
+<!-- ADDITION OF CUSTOM JS -->
+
 
 <!-- Mathjax Support -->
 <script type="text/javascript" async
