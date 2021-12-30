@@ -4,4 +4,12 @@ layout: single
 permalink: /resume/
 ---
 
-TODO Resume page.
+**NOTE!** I'm still writing this so hopefully nobody sees this :)
+{: .notice--danger}
+
+# Experience
+
+# Education
+
+# Skills 
+
