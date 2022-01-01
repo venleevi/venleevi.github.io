@@ -4,5 +4,9 @@ layout: single
 permalink: /resume/
 ---
 
-<object data="/assets/leevi-veneranta-resume-en.pdf" width="1000" height="1200" type='application/pdf'/>
+<!--
 
+<object data="/assets/leevi-veneranta-resume-en.pdf" width="1000" height="1200" 
+type='application/pdf' alt='This should show a pdf document viewer of my resume!' />
+
+-->
