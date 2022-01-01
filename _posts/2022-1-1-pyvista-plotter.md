@@ -31,7 +31,7 @@ gallery:
   - url: /assets/images/pencil-code/overly-zoomed-in-streamlines.png
     image_path: /assets/images/pencil-code/overly-zoomed-in-streamlines.png
     alt: "Zoomed in streamlines"
-    title: "A very zoomed in visualization a vector field."
+    title: "A very zoomed in visualization of a vector field."
 ---
 
 
@@ -56,7 +56,7 @@ Some of the implemented features include:
 
 * Other visualization methods including volume rendering of scalar volumetric data, plotting isovalues and different interactive methods of data visualization (e.g. an interactively controlled slicing plane).
 
-Some sample nice sample visualizations are shown in the next gallery but do note **that most of these are just nice visuals but don not convey actual information that well**. For more informatic visuals see the *Extras* section first video for video showing the time evolution of chosen scalar and vector fields.
+Some sample nice sample visualizations are shown in the next gallery. The two first isovalue visualizations are gifs showing a moving range of isosurfaces of a scalar field. **The images / gifs might take a moment to load fully.**
 
 {% include gallery caption="Sample visualizations." %}
 
