@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Leevi Veneranta"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "M.Sc. Machine Learning student @Aalto University"
+  bio              : "MSc Machine Learning student @Aalto University"
   location         : "Espoo, Finland"
   email            : "leevi.veneranta@aalto.fi"
   links:

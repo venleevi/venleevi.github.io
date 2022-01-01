@@ -4,12 +4,5 @@ layout: single
 permalink: /resume/
 ---
 
-**NOTE!** I'm still writing this so hopefully nobody sees this :)
-{: .notice--danger}
-
-# Experience
-
-# Education
-
-# Skills 
+<object data="/assets/leevi-veneranta-resume-en.pdf" width="1000" height="1200" type='application/pdf'/>
 

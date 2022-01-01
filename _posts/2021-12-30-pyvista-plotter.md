@@ -6,7 +6,7 @@ last_modified_at: 2021-12-30
 title: 3D visualization using Pyvista
 excerpt: ""
 header:
-   overlay_image: /assets/images/pencil-code/streamline-header-image.png
+   image: /assets/images/pencil-code/streamline-header-image.png
    overlay_filter: 0.4
 ---
 

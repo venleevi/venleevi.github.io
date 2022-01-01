@@ -4,7 +4,7 @@ custom_css:
   - skillbar
 ---
 
-Testing custom css shit!
+Testing custom css
 
 <div class="container">
   <h1>Skill Set</h1>
