@@ -2,7 +2,7 @@
 layout: single
 toc: false
 classes: wide
-last_modified_at: 2022-1-1
+last_modified_at: 2022-1-7
 title: 3D visualization of astronomical data using Pyvista
 excerpt: ""
 
@@ -34,9 +34,6 @@ gallery:
     title: "A very zoomed in visualization of a vector field."
 ---
 
-
-**NOTE!** I'm still writing this post so hopefully nobody sees this :)
-{: .notice--danger}
 
 <img src="/assets/images/pencil-code/cartesian-box-snapshot.png" align="right" width="30%">
 
