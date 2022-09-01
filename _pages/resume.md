@@ -10,7 +10,7 @@ custom_css:
 <h3 class="notice--danger">Note - this page is still under production and may contain outdated information!</h3>
 
 <!-- 
-<object data="/assets/Veneranta_Leevi_CV_EN_17-1-2022.pdf" width="1000" height="1200" 
+<object data="/assets/Veneranta_Leevi_CV.pdf" width="1000" height="1200" 
 type='application/pdf' alt='This should show a pdf document viewer of my resume!' /> 
 -->
 
