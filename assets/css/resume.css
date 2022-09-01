@@ -1,0 +1,45 @@
+.resume-header {
+    margin-top: 5px;
+}
+
+.content-div {
+    padding-top: 0.5em;
+    /* padding-bottom: 0.5em; */
+}
+
+.experience-name {
+    color: rgb(84, 84, 84);
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none;
+    float: left;
+    width: 49%;
+    display: inline-block;
+
+    margin: 0;
+}
+
+.experience-date {
+    color: rgb(84, 84, 84);
+    text-decoration: none;
+    float: right;
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+
+    margin: 0;
+}
+
+.experience-loc {
+    color: rgb(137, 136, 136);
+    opacity: .8;
+    
+    margin: 0;
+    /* margin: 0; */
+    /* padding: 0; */
+    /* line-height: 0; */
+}
+
+.experience-desc {
+    color: gray;
+}
