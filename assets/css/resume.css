@@ -41,5 +41,10 @@
 }
 
 .experience-desc {
-    color: gray;
+    color: black;
+}
+
+.experience-list {
+    margin-top: 0;
+    margin-bottom: 0;
 }
